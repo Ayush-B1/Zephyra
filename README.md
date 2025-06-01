@@ -1,46 +1,86 @@
-# Getting Started with Create React App
+# Zephyra - Your Personal Wellness Companion 🌙
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Zephyra is a modern web application designed to help users manage their mental well-being through personalized themes, guided rituals, and calming experiences.
 
-## Available Scripts
+## 🌟 Features
 
-In the project directory, you can run:
+### Current Features
+- **Theme Selection**: Choose from various calming themes (Moon Energy, Ocean Waves, Forest Serenity)
+- **Feeling-Based Rituals**: Select your current emotional state and get personalized recommendations
+- **Guided Rituals**:
+  - Deep Breathing exercises with visual guidance
+  - Meditation sessions with soothing background music
+  - Focus exercises for improved concentration
+- **60-Second Timer**: Track your ritual duration with an integrated timer
+- **Responsive Design**: Works seamlessly across all devices
 
-### `npm start`
+### Future Enhancements
+1. **Visual Enhancements**
+   - Lottie animations for breathing exercises
+   - Interactive background visuals for meditation
+   - Color dot tracking for focus exercises
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+2. **Personalization**
+   - User accounts and progress tracking
+   - Custom theme creation
+   - Personalized ritual recommendations
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+3. **Content Expansion**
+   - Additional themes and environments
+   - More ritual variations
+   - Extended meditation sessions
+   - Journaling feature
 
-### `npm test`
+4. **Community Features**
+   - Progress sharing
+   - Community challenges
+   - Group meditation sessions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. **Advanced Features**
+   - Mood tracking and analytics
+   - Integration with wellness apps
+   - Custom audio uploads
+   - Offline mode
 
-### `npm run build`
+## 🛠️ Technical Stack
+- React
+- TypeScript
+- Tailwind CSS
+- React Router
+- Lottie (planned)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📋 Requirements
+- Node.js (v14 or higher)
+- npm or yarn
+- Modern web browser
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Getting Started
+1. Clone the repository
+```bash
+git clone https://github.com/Ayush-B1/Zephyra.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Install dependencies
+```bash
+cd Zephyra
+npm install
+```
 
-### `npm run eject`
+3. Start the development server
+```bash
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📧 Contact
+- Email: ayush.scb@gmail.com
+- GitHub: [Ayush-B1](https://github.com/Ayush-B1)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🙏 Acknowledgments
+- Thanks to all contributors and supporters of this project
+- Special thanks to the open-source community for their invaluable tools and resources
