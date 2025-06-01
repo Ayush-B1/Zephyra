@@ -74,13 +74,6 @@ npm start
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
-- Email: ayush.scb@gmail.com
-- GitHub: [Ayush-B1](https://github.com/Ayush-B1)
-
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 - Thanks to all contributors and supporters of this project
 - Special thanks to the open-source community for their invaluable tools and resources
